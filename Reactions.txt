@@ -1,0 +1,21 @@
+HK;Hexokinase;Gluc + ATP -> G6P + ADP + H+;0;1000
+PGI;Glucose 6-phosphate isomerase;G6P <-> F6P;-1000;1000
+PFK;Phosphofructokinase;F6P + ATP -> FDP + ADP + H+;0;1000
+TPI;Triose-phosphate isomerase;DHAP <-> GAP;-1000;1000
+ALD;Fructose 1,6-diphosphate aldolase;FDP <-> DHAP + GAP;-1000;1000
+GAPDH;Glyceraldehyde 3-phosphate dehydrogenase;GAP + NAD + Pi <-> DPG13 + NADH + H+;-1000;1000
+PGK;Phosphoglycerate kinase;DPG13 + ADP <-> PG3 + ATP;-1000;1000
+PGLM;Phosphoglycerate mutase;PG3 <-> PG2;-1000;1000
+ENO;Enolase;PG2 <-> PEP + H2O;-1000;1000
+PK;Pyruvate kinase;PEP + ADP + H+ -> PYR + ATP;0;1000
+LDH;Lactate dehydrogenase;PYR + NADH + H+ <-> LAC + NAD;-1000;1000
+AMP;AMP export;AMP ->;0;1000
+APK;Adenylate kinase;2ADP <-> AMP + ATP;-1000;1000
+PYR;Pyruvate exchange;PYR <->;-1000;1000
+LAC;Lactate exchange;LAC <->;-1000;1000
+ATP;ATP hydrolysis;ATP + H2O -> ADP + Pi + H+;0;1000
+NADH;NADH oxidation;NADH -> NAD + H+;0;1000
+GLUin;Glucose import;-> Gluc;1;1
+AMPin;AMP import;-> AMP;0;1000
+H;Proton exchange;H+ <->;-1000;1000
+H2O;Water exchange;H2O <->;-1000;1000

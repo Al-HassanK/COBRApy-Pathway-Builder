@@ -1,0 +1,20 @@
+Gluc;glucose;c
+G6P;Glucose 6-phosphate;c
+F6P;Fructose 6-phosphate;c
+FDP;Fructose 1,6-diphosphate;c
+DHAP;Dihydroxyacetone phosphate;c
+GAP;Glyceraldehyde 3-phosphate;c
+DPG13;1,3-Diphosphoglycerate;c
+PG3;3-Phosphoglycerate;c
+PG2;2-Phosphoglycerate;c
+PEP;Phosphoenolpyruvate;c
+PYR;Pyruvate;c
+LAC;Lactate;c
+NAD;Nicotinamide adenine dinucleotide (oxidized);c
+NADH;Nicotinamide adenine dinucleotide (reduced);c
+AMP;Adenosine mono-phosphate;c
+ATP;Adenosine tri-phosphate;c
+ADP;Adenosine di-phosphate;c
+Pi;Inorganic Phosphate;c
+H+;Proton;c
+H2O;Water;c
